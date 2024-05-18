@@ -1,0 +1,32 @@
+.pol{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border: 2px solid rgb(255, 252, 252);
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.lop{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    overflow: hidden;
+}
+.sop{
+    display: flex;
+    margin-top: 40px;
+    width: 100%;
+    height: 150px;
+    border: 2px solid black;
+}
+.mol{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 20%;
+    height: 120px;
+    border: 2px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    overflow: hidden;
+}
